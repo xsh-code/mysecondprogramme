@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="/front/public/libs/jquery.min.js"></script>
+    <script src="/front/public/plugins/echarts/echarts.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            //1,初始化echarts
+            var myEcharts = echarts.init(document.getElementById("myBarContainner"));
+            //2,初始化配置和数据
+            var  option = {
+                title : {
+                    text: '集团各部门员工统计',
+                    subtext: '2019年统计'
+                },
+                tooltip : {
+                    trigger: 'axis'
+                },
+                legend: {
+                    data:['男','女']
+                },
+                toolbox: {
+                    show : true,
+                    feature : {
+                        dataView : {show: true, readOnly: false},
+                        magicType : {show: true, type: ['line', 'bar']},
+                        restore : {show: true},
+                        saveAsImage : {show: true}
+                    }
+                },
+                xAxis : {
+                       // 所有部门名称
+                       //data : ['管理员','测试人员']
+                },
+                yAxis : {},
+                series : [
+                    {
+                        name:'男',
+                        type:'bar',
+                        // 各部门男员工数量
+                        //data:[2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3],
+                        //data:[1,3],
+                    },
+                    {
+                        name:'女',
+                        type:'bar',
+                        // 各部门男员工数量
+                        //data:[2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3],
+                        //data:[4,5],
+                    }
+                ]
+            };
+            $.ajaxSetup({
+                xhrFields: {
+                    withCredentials: true //跨域携带cookie
+                }
+            });
+            $.ajax({
+                url:"http://localhost:8989/web03/sys/role/count",
+                dataType:"json",
+                success:function(r){
+                    //{"code":0,"data":{"x":['管理员','测试人员'],"male":[12,13],"female":[1,5]}}
+                    option.xAxis.data = r.data.x;
+                    option.series[0].data = r.data.male;
+                    option.series[1].data = r.data.female;
+                    console.log(option);
+                    //3.设置option 渲染图片
+                    myEcharts.setOption(option);
+                },
+
+            });
+            //myEcharts.setOption(option);
+
+        });
+    </script>
+</head>
+<body>
+
+    <div style="height: 500px;width: 600px" id="myBarContainner"></div>
+
+</body>
+</html>

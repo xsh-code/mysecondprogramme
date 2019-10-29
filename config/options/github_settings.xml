@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="c084a4b7-7a57-4344-be6f-9be6d514a6f1" name="xsh-code">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

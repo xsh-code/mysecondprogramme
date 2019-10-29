@@ -1,0 +1,1 @@
+The <code><strong>textContent</strong></code> property of the <a href="/en-US/docs/Web/API/Node" title="Node Node "><code>Node</code></a> interface represents the text content of the node and its descendants.

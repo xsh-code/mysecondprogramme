@@ -1,0 +1,80 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-68-75-255,,,50-39-62-222,,,37-154-201-255,,,140-124-201-255,,,201-46-175-255,,,128-32-128-255,,,48-80-128-255,,,36-56-128-255,,,109-0-128-255,,,82-8-128-255,,,157-255-62-255,,,222-255-195-255,,,26-255-242-255,,,251-255-255-255,,,55-75-255-255,,,97-0-127-255,,,0-20-255-255,,,0-255-252-255,,,208-0-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7793904" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.27972028" />
+    <property name="INSPECTION_FILTER_HISTORY" value="java" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JUnitSupport.sortTestsAlphabetically" value="false" />
+    <property name="JUnitSupport.sortTestsByDuration" value="true" />
+    <property name="KEYMAP" value="back&#10;b&#10;implemen&#10;class&#10;backgr" />
+    <property name="LiveContextsPanel[0]" value="0.13956735" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="JR&#10;JRebel&#10;.ignore&#10;Key pr&#10;Key" />
+    <property name="RegistryRecentKeys" value="ide.suppress.double.click.handler" />
+    <property name="RunConfigurable.dividerProportion" value="0.29942966" />
+    <property name="SearchEveryWhereHistory" value="user.js&#10;monday&#10;DispatcherServlet&#10;tb_order&#10;WebServlet" />
+    <property name="SettingsSearchHistory" value="mave&#10;maven&#10;detect indent&#10;font&#10;code" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.60874707" />
+    <property name="SpringBeansModulesPanel[0]" value="0.1367989" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.4.0" />
+    <property name="com.intellij.database.view.editors.ObjectEditorWithPreview.proportion" value="-0.7" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="entityPackName" value="study.domain." />
+    <property name="errorCount" value="3" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/项目学习/新建文件夹/rz_gp03_front&#10;D:/mycode/mycodestage2/gittest02&#10;D:/mycode/mycodestage2/FreshEveryDay_01&#10;D:/软件/IdeaProjects/tencent&#10;C:/Users/AUSU/Desktop/千峰学习/2019-09-29/springMVC_gp04_02/spring_springMVC_gp04&#10;C:/Users/AUSU/Desktop/千峰学习/2019-09-29/springMVC_gp04_02/springMVC_gp04_02&#10;D:/mygit/Git/bin/git.exe&#10;D:/mycode/mycodestage2&#10;D:/软件/IdeaProjects/xiaomimybatistest/xiaomiweb/src/main/webapp&#10;D:/软件/IdeaProjects/xiaomimybatistest/xiaomiweb&#10;D:/mycode/mycodestage2/testmyxiaomispring1/xiaomiweb&#10;D:/mycode/mycodestage2/testmyxiaomispring1/xiaomiservice&#10;D:/mycode/mycodestage2/testmyxiaomispring1/xiaomimapper&#10;D:/mycode/mycodestage2/testmyxiaomispring1&#10;D:/mycode/mycodestage3&#10;C:/Program Files/Java/jdk1.8.0_201&#10;D:/软件/IdeaProjects/_0916myweb1/src/main/webapp/WEB-INF/web.xml&#10;D:/Repository/Maven&#10;D:/mymaven/apache-maven-3.5.0-bin/apache-maven-3.5.0/conf/settings.xml&#10;C:/Users/AUSU/Desktop/千峰学习/2019-09-10/JunZheXiaoMi&#10;C:/Users/AUSU/Pictures/Saved Pictures/dada.jpg&#10;C:/Users/AUSU/Desktop/dada.jpg&#10;C:/Users/AUSU/Desktop/picture/杨幂.jpg&#10;D:/cat/apache-tomcat-8.5.45-windows-x64/apache-tomcat-8.5.45&#10;D:/cat&#10;F:/&#10;D:/what&#10;C:/Program Files/Java/jdk-9.0.4&#10;D:/软件/mymaven/maven-3.5.3/conf/settings.xml&#10;D:/软件/mymaven/maven-3.5.3" />
+    <property name="file.gist.reindex.count" value="3113" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="generateComments" value="true" />
+    <property name="idea.background.editor" value="C:\Users\AUSU\Pictures\Saved Pictures\dada.jpg,8,tile,center,flipH" />
+    <property name="installed.kotlin.plugin.version" value="1.2.51-release-IJ2018.2-1" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.45" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="64815" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="last.imported.location" value="D:/mycode/mycodestage2/testmyxiaomispring1/xiaomiweb" />
+    <property name="lastTip" value="43" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:\Users\AUSU\Desktop\picture\杨幂.jpg&#10;C:\Users\AUSU\Desktop\dada.jpg" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="reuseEntity" value="false" />
+    <property name="selected.color.option.type" value="CONSOLE_SYSTEM_OUTPUT" />
+    <property name="show.indent.detected.notification" value="false" />
+    <property name="splitGenerate" value="false" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="suffixStr" value="Bean" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="virgoMode" value="true" />
+  </component>
+</application>

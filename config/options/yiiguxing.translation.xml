@@ -1,0 +1,63 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Caused by: java.lang.IllegalArgumentException: Unable to heuristically acquire bytes for object of type [java.lang.Integer]. If this type is indeed a byte-backed data type, you might want to write your own ByteSource implementation to extract its bytes explicitly." />
+      <item value="Authentication" />
+      <item value=".Authentication Exception" />
+      <item value="character" />
+      <item value="chararcter" />
+      <item value="Caused by: java.net.ConnectException: Connection refused: connect" />
+      <item value="No SecurityManager accessible to the calling code, either bound to the org.apache.shiro" />
+      <item value="accessible" />
+      <item value="Not Writable Property Exception" />
+      <item value="writable" />
+      <item value="Caused by: org.springframework.beans.NotWritablePropertyException: Invalid property 'template ' of bean class [study.cache.MyShiroCacheManager]: Bean property 'template ' is not writable or has an invalid setter method. Did you mean 'template'?" />
+      <item value="Invalid property 'template ' of bean class [study.cache.MyShiroCacheManager]: Bean property 'template ' is not writable or has an invalid setter method. Did you mean 'template'?" />
+      <item value=".Not Writable Property Exception" />
+      <item value="Could not instantiate cache implementation (class study.cache.MyShiroCache). Cause: java.lang.ClassCastException: study.cache.MyShiroCache cannot be cast to org.apache.ibatis.cache.Cache" />
+      <item value="cast" />
+      <item value="Abstract" />
+      <item value="multipart" />
+      <item value="inherit" />
+      <item value="dashed" />
+      <item value="Unknown Account Exception" />
+      <item value="Unauthorized Exception" />
+      <item value="Unauthenticated Exception" />
+      <item value="Incorrect Credentials Exception" />
+      <item value="Invalid" />
+      <item value="Number Format Exception" />
+      <item value="Adapter" />
+      <item value="trigger" />
+      <item value="explains" />
+      <item value="bought" />
+      <item value="brain" />
+      <item value="brains" />
+      <item value="whether" />
+      <item value="Interval" />
+      <item value="Identity" />
+      <item value="Expression" />
+      <item value="server" />
+      <item value="service" />
+      <item value="CLUSTERDOWN The cluster is down" />
+      <item value="Illegal State Exception" />
+      <item value="target Filter Lifecycle" />
+      <item value="Cluster" />
+      <item value="Template" />
+      <item value="transient" />
+      <item value="attribute" />
+      <item value="Access" />
+      <item value="lifecycle Bean Post Processor" />
+      <item value="context Config Location" />
+      <item value="执行了写操作删除缓存" />
+      <item value="name" />
+      <item value="Bean" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
+        <entry key="BULGARIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,1 @@
+The <strong><code>HTMLMarqueeElement</code></strong> interface provides methods to manipulate <a href="/en-US/docs/Web/HTML/Element/marquee" title="The HTML &lt;marquee&gt; element is used to insert a scrolling area of text. You can control what happens when the text reaches the edges of its content area using its attributes."><code>&lt;marquee&gt;</code></a> elements.

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>菜单管理</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+</head>
+<body>
+<div id="dtapp" v-cloak>
+
+   <ul id="menuTree" class="ztree"></ul>
+
+</div>
+<script src="../public/libs/jquery.min.js"></script>
+<link rel="stylesheet" href="../public/plugins/ztree/css/metroStyle/metroStyle.css">
+<script src="../public/plugins/ztree/jquery.ztree.all.min.js"></script>
+<script>
+    var setting = {
+        data: {
+            simpleData: {// 基本参数项
+                enable: true,//使用简单数据模式，通过如下属性自动识别父子层级，而不用再封装嵌套的json
+                idKey: "menuId",//每个树节点的标识
+                pIdKey: "parentId",//每个树节点的父节点标识
+            },
+            key: {
+                url: "url",//默认为url,
+                name:"name"
+            }
+        },
+        check: {
+            enable: true,
+            chkStyle: "checkbox"//显示 checkbox 选择框，默认checkbox可选择值radio
+        },
+        callback: {
+            onCheck: function(event, treeId, treeNode) {//每次选中或取消选中一个ztree节点时触发
+                console.log(treeNode.tId + ", " + treeNode.name + "," + treeNode.checked);
+                var zTree = $.fn.zTree.getZTreeObj("menuTree");
+                //checkCount = zTree.getCheckedNodes(true).length,// 获得所有选中的 ztree节点
+                //nocheckCount = zTree.getCheckedNodes(false).length,//未选中
+                //changeCount = zTree.getChangeCheckedNodes().length;//获取输入框勾选状态被改变的节点集合（与原始数据 checkedOld 对比）
+                var checkedNames = [],checkedIds = [];//存储被选中节点中的信息
+                for (var i = 0; i <= zTree.getCheckedNodes(true).length - 1; i++) {
+                    checkedIds.push(zTree.getCheckedNodes(true)[i].menuId);//存储所有被选中节点中的 menuId信息
+                };
+                console.log(checkedIds);
+                vm.role.menus = checkedIds;//存入vm.role.menu,准备发往后端
+            }
+        }
+    }
+    //加载菜单树
+    $.get(origin+"/front/data.jsp?_"+$.now(),
+        function(r){
+            r = JSON.parse(r);
+            //设置ztree的数据
+            ztree = $.fn.zTree.init($("#menuTree"), setting, r.menuList);
+        });
+</script>
+<input type="button" onclick="abc();">
+<script>
+    function abc(){
+        type=1;
+        var ztree = $.fn.zTree.getZTreeObj("menuTree");
+        var nodes = ztree.getNodesByFilter(filter9);
+        for(var i=0;i<nodes.length;i++){
+            ztree.removeNode(nodes[i]);
+        }
+    }
+    function filter9(node){
+        return node.type==type;
+    }
+</script>
+</body>
+</html>

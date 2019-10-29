@@ -1,0 +1,2568 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/mycode/mycodestage2/xshrz01" />
+        <option value="D:/mycode/mycodestage2/FreshEveryDay_01" />
+        <option value="$USER_HOME$/Desktop/项目学习/新建文件夹/rz_gp03_front" />
+        <option value="D:/mycode/mycodestage2/FreshEveryDay_Manager" />
+        <option value="D:/mycode/mycodestage2/shiro_01_1010" />
+        <option value="D:/mycode/mycodestage2/shiro_02_1009" />
+        <option value="D:/mycode/mycodestage2/shiro_01_1009" />
+        <option value="D:/mycode/mycodestage2/ssm_redis_cache_1015" />
+        <option value="D:/mycode/mycodestage2/ssm_redis_cache_1015_02" />
+        <option value="D:/mycode/mycodestage2/ssm_redis_cache_1015_03" />
+        <option value="D:/mycode/mycodestage2/gittest02" />
+        <option value="D:/软件/IdeaProjects/xushihao" />
+        <option value="D:/软件/IdeaProjects/test20190920" />
+        <option value="D:/mycode/mycodestage2/xshmitest1_mybatis" />
+        <option value="D:/mycode/mycodestage2/FreshEveryDay_Mananer" />
+        <option value="D:/mycode/mycodestage2/testmyxiaomispring1" />
+        <option value="D:/mycode/mycodestage2/my_homework_01" />
+        <option value="D:/软件/IdeaProjects/tencent" />
+        <option value="D:/mycode/mycodestage2/ssm_redis_cache_1017_1" />
+        <option value="D:/mycode/mycodestage2/SpringMVC_1008_2" />
+        <option value="D:/mycode/mycodestage2/SpringMVC_1008_02" />
+        <option value="D:/mycode/mycodestage2/quartz_1020_01" />
+        <option value="D:/mycode/mycodestage2/quartz_1019_01" />
+        <option value="D:/mycode/mycodestage2/webservice_rest_1018_04" />
+        <option value="D:/mycode/mycodestage2/webservice_rest_1018_03" />
+        <option value="D:/mycode/mycodestage2/webservice_rest_1018_02" />
+        <option value="D:/mycode/mycodestage2/webservice_rest_1018_01" />
+        <option value="D:/mycode/mycodestage2/webService_1018_01test" />
+        <option value="D:/mycode/mycodestage2/webService_1018_01" />
+        <option value="D:/mycode/mycodestage2/redis_2019_1014_01" />
+        <option value="D:/mycode/mycodestage2/shiro_01_20191011" />
+        <option value="D:/mycode/mycodestage2/shirotest01_1013" />
+        <option value="D:/mycode/mycodestage2/SpringMVC_1008_01" />
+        <option value="D:/mycode/mycodestage2/SpringMVC_kuayu" />
+        <option value="D:/mycode/mycodestage2/springMVC_0929_2" />
+        <option value="$USER_HOME$/Desktop/千峰学习/2019-09-29/springMVC_gp04_02/spring_springMVC_gp04" />
+        <option value="$USER_HOME$/Desktop/千峰学习/2019-09-29/springMVC_gp04_02/springMVC_gp04_02" />
+        <option value="D:/mycode/mycodestage2/springMVC_1_1" />
+        <option value="D:/mycode/mycodestage2/springMVC_1" />
+        <option value="D:/mycode/mycodestage2/spring_092501" />
+        <option value="D:/mycode/mycodestage2/test0926" />
+        <option value="D:/mycode/mycodestage2/spring_092502" />
+        <option value="D:/软件/IdeaProjects/mybatisxiaomi" />
+        <option value="D:/软件/IdeaProjects/myxiaomimybatistest2" />
+        <option value="D:/软件/IdeaProjects/xiaomimybatistest" />
+        <option value="D:/mycode/mycodestage2/spring_092402" />
+        <option value="D:/软件/IdeaProjects/mybatis_04" />
+        <option value="D:/软件/IdeaProjects/mybatis091901" />
+        <option value="D:/软件/IdeaProjects/spring_092301" />
+        <option value="D:/mycode/mycodestage3" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/项目学习/新建文件夹/rz_gp03_front" />
+        <option value="D:/mycode/mycodestage2/xshrz01" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/mycode/mycodestage2/xshrz01" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/Demo1Test.java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568603030942" />
+              <option name="buildTimestamp" value="1534836446076" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/千峰学习/2019-09-10/JunZheXiaoMi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568160120676" />
+              <option name="buildTimestamp" value="1534836427905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/千峰学习/2019-09-29/springMVC_gp04_02/springMVC_gp04_02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569986994029" />
+              <option name="buildTimestamp" value="1534836434244" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/千峰学习/2019-09-29/springMVC_gp04_02/spring_springMVC_gp04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570245222801" />
+              <option name="buildTimestamp" value="1534836469769" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/项目学习/新建文件夹/rz_gp03_front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572354932200" />
+              <option name="buildTimestamp" value="1534836429289" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/FreshEveryDay_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572337883129" />
+              <option name="buildTimestamp" value="1534836429289" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/FreshEveryDay_Manager">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572335988606" />
+              <option name="buildTimestamp" value="1534836450743" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/FreshEveryDay_Mananer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571983854484" />
+              <option name="buildTimestamp" value="1534836450034" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/SpringMVC_1008_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570607912459" />
+              <option name="buildTimestamp" value="1534836450772" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/SpringMVC_1008_02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571622204710" />
+              <option name="buildTimestamp" value="1534836435767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/SpringMVC_1008_2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571632289766" />
+              <option name="buildTimestamp" value="1534836435767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/SpringMVC_kuayu">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570548258215" />
+              <option name="buildTimestamp" value="1534836466067" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/gittest02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572244979043" />
+              <option name="buildTimestamp" value="1534836457691" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/my_homework_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571833689774" />
+              <option name="buildTimestamp" value="1534836476781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/qqq">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569386862949" />
+              <option name="buildTimestamp" value="1534836468417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/quartz_1019_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571620494226" />
+              <option name="buildTimestamp" value="1534836435767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/quartz_1020_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571622146369" />
+              <option name="buildTimestamp" value="1534836435767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/redis_2019_1014_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571131455176" />
+              <option name="buildTimestamp" value="1534836446221" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/shiro_01_1009">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572334168317" />
+              <option name="buildTimestamp" value="1534836450743" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/shiro_01_1010">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572334531437" />
+              <option name="buildTimestamp" value="1534836450743" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/shiro_01_20191011">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571130247785" />
+              <option name="buildTimestamp" value="1534836446221" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/shiro_02_1009">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572334257742" />
+              <option name="buildTimestamp" value="1534836450743" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/shiro_1009_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570588598611" />
+              <option name="buildTimestamp" value="1534836460252" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/shirotest01_1013">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571010996241" />
+              <option name="buildTimestamp" value="1534836441856" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/springMVC_0929_2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570342849329" />
+              <option name="buildTimestamp" value="1534836437101" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/springMVC_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569724414631" />
+              <option name="buildTimestamp" value="1534836443114" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/springMVC_1_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569745669277" />
+              <option name="buildTimestamp" value="1534836443114" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/spring_092402">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569409562691" />
+              <option name="buildTimestamp" value="1534836468417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/spring_092501">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569663251374" />
+              <option name="buildTimestamp" value="1534836442946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/spring_092502">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569546260627" />
+              <option name="buildTimestamp" value="1534836424845" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/ssm_redis_cache_1015">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572307142908" />
+              <option name="buildTimestamp" value="1534836440492" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/ssm_redis_cache_1015_02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572267925596" />
+              <option name="buildTimestamp" value="1534836457691" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/ssm_redis_cache_1015_03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572252185600" />
+              <option name="buildTimestamp" value="1534836457691" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/ssm_redis_cache_1017_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571655457503" />
+              <option name="buildTimestamp" value="1534836435767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/test0926">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569654053431" />
+              <option name="buildTimestamp" value="1534836442946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/testmyxiaomispring1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571833725243" />
+              <option name="buildTimestamp" value="1534836476781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/webService_1018_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571446588033" />
+              <option name="buildTimestamp" value="1534836423637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/webService_1018_01test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571447637667" />
+              <option name="buildTimestamp" value="1534836423637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/webservice_rest_1018_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571486871463" />
+              <option name="buildTimestamp" value="1534836462680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/webservice_rest_1018_02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571486958574" />
+              <option name="buildTimestamp" value="1534836462680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/webservice_rest_1018_03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571487325338" />
+              <option name="buildTimestamp" value="1534836462680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/webservice_rest_1018_04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571488655135" />
+              <option name="buildTimestamp" value="1534836462680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/xshmitest1_mybatis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572003743788" />
+              <option name="buildTimestamp" value="1534836456653" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage2/xshrz01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572354932200" />
+              <option name="buildTimestamp" value="1534836429289" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mycode/mycodestage3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569387076353" />
+              <option name="buildTimestamp" value="1534836468417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0828web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567094446428" />
+              <option name="buildTimestamp" value="1534836424488" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0828web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567314070896" />
+              <option name="buildTimestamp" value="1534836434963" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0830web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567477752628" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0830web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567477771910" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0830web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567477807305" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0831web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567485548467" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0831web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567477821880" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0831web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567399798510" />
+              <option name="buildTimestamp" value="1534836432932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0902web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567477728755" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0902web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567437422853" />
+              <option name="buildTimestamp" value="1534836432932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0902web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567468880342" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0902web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567666808906" />
+              <option name="buildTimestamp" value="1534836471747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0903web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568527914746" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0903web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568600254201" />
+              <option name="buildTimestamp" value="1534836443117" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0903web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567682584649" />
+              <option name="buildTimestamp" value="1534836471747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0904web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568595560576" />
+              <option name="buildTimestamp" value="1534836443117" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0904web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568527809467" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0904web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568595578477" />
+              <option name="buildTimestamp" value="1534836443117" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0904web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568681144964" />
+              <option name="buildTimestamp" value="1534836449841" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0905web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568539918914" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0905web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568527828954" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0905web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568527742693" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0905web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568527650743" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0906web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568547030603" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0906web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568527890838" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0906web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567858298207" />
+              <option name="buildTimestamp" value="1534836437530" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0907pre">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568161262683" />
+              <option name="buildTimestamp" value="1534836427905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0907web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568683289114" />
+              <option name="buildTimestamp" value="1534836459318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0907web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568683531664" />
+              <option name="buildTimestamp" value="1534836459318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0907web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568683310314" />
+              <option name="buildTimestamp" value="1534836459318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0907web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567905286728" />
+              <option name="buildTimestamp" value="1534836445823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0908test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568622532432" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0908web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567946972160" />
+              <option name="buildTimestamp" value="1534836445823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0908web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569035735396" />
+              <option name="buildTimestamp" value="1534836455451" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/0915test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568634471173" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/2019-08-28-2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566986136119" />
+              <option name="buildTimestamp" value="1534836430261" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/2019-08-31test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567254384018" />
+              <option name="buildTimestamp" value="1534836420770" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/2019-0828">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567169121915" />
+              <option name="buildTimestamp" value="1534836466508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/20190826">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566911422222" />
+              <option name="buildTimestamp" value="1534836473187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/20190827">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567318806527" />
+              <option name="buildTimestamp" value="1534836434963" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/TXJavaTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565658943439" />
+              <option name="buildTimestamp" value="1534836423162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/_0916myweb1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568619101853" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/afstudy_08_16">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566435687685" />
+              <option name="buildTimestamp" value="1534836441958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/boot_for_socket">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565598293715" />
+              <option name="buildTimestamp" value="1534836443790" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565598271500" />
+              <option name="buildTimestamp" value="1534836443790" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560180451970" />
+              <option name="buildTimestamp" value="1534836427150" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/htmltest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567171367233" />
+              <option name="buildTimestamp" value="1534836466508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/jediscluster">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560136543212" />
+              <option name="buildTimestamp" value="1534836427150" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/maven0917">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568687312051" />
+              <option name="buildTimestamp" value="1534836459318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybaties091804">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568864454095" />
+              <option name="buildTimestamp" value="1534836477210" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybatis091802">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568795957017" />
+              <option name="buildTimestamp" value="1534836436152" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybatis091803">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568813653000" />
+              <option name="buildTimestamp" value="1534836436152" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybatis091901">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569387320627" />
+              <option name="buildTimestamp" value="1534836468417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybatis091902">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568963526608" />
+              <option name="buildTimestamp" value="1534836478037" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybatis091903">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568951062827" />
+              <option name="buildTimestamp" value="1534836478037" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybatis_04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569391573637" />
+              <option name="buildTimestamp" value="1534836468417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/mybatisxiaomi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569496246762" />
+              <option name="buildTimestamp" value="1534836468603" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/myjd">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554094631302" />
+              <option name="buildTimestamp" value="1534836441728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/myxiaomi_maven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569037587589" />
+              <option name="buildTimestamp" value="1534836455451" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/myxiaomimybatistest2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569495980655" />
+              <option name="buildTimestamp" value="1534836468603" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/myxiaomiparent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569200139532" />
+              <option name="buildTimestamp" value="1534836440552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/prestudy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567215406466" />
+              <option name="buildTimestamp" value="1534836456199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qdstudy_08_19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566823459769" />
+              <option name="buildTimestamp" value="1534836428819" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566476325871" />
+              <option name="buildTimestamp" value="1534836459466" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_09">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565513247057" />
+              <option name="buildTimestamp" value="1534836456108" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_10">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565831003184" />
+              <option name="buildTimestamp" value="1534836465322" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_12">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566222585374" />
+              <option name="buildTimestamp" value="1534836442400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_13">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566227616565" />
+              <option name="buildTimestamp" value="1534836442400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_14">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566259370872" />
+              <option name="buildTimestamp" value="1534836462467" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_15">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566350901765" />
+              <option name="buildTimestamp" value="1534836474112" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_17">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566443164100" />
+              <option name="buildTimestamp" value="1534836441958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_08_18">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566179275511" />
+              <option name="buildTimestamp" value="1534836433494" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_second_week">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566523043195" />
+              <option name="buildTimestamp" value="1534836426777" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qfstudy_third_week">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565705448642" />
+              <option name="buildTimestamp" value="1534836423162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/qiankuntest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566912049260" />
+              <option name="buildTimestamp" value="1534836473187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/shihaoxiaomi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568766673645" />
+              <option name="buildTimestamp" value="1534836450630" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/spring_092301">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569387136036" />
+              <option name="buildTimestamp" value="1534836468417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/spring_092302">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569384486997" />
+              <option name="buildTimestamp" value="1534836468417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/tencent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571736158312" />
+              <option name="buildTimestamp" value="1534836475465" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/test1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560136677743" />
+              <option name="buildTimestamp" value="1534836427150" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/test111">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567210141548" />
+              <option name="buildTimestamp" value="1534836456199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/test20190920">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572051671209" />
+              <option name="buildTimestamp" value="1534836466874" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/xiaomimybatistest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569457615751" />
+              <option name="buildTimestamp" value="1534836468603" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/xushihao">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572058422009" />
+              <option name="buildTimestamp" value="1534836466874" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/xushihaoxiaomi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568552343459" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/软件/IdeaProjects/徐诗豪">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566199735803" />
+              <option name="buildTimestamp" value="1534836423248" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0828web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566982522129" />
+              <option name="buildTimestamp" value="1534836443269" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0828web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566982514117" />
+              <option name="buildTimestamp" value="1534836443269" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0830web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567151194106" />
+              <option name="buildTimestamp" value="1534836466508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0830web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567155933869" />
+              <option name="buildTimestamp" value="1534836466508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0830web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567166532222" />
+              <option name="buildTimestamp" value="1534836466508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0831web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567227329998" />
+              <option name="buildTimestamp" value="1534836456199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0831web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567249549634" />
+              <option name="buildTimestamp" value="1534836420770" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0831web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567263733026" />
+              <option name="buildTimestamp" value="1534836424053" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0902web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567407188615" />
+              <option name="buildTimestamp" value="1534836432932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0902web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567422108996" />
+              <option name="buildTimestamp" value="1534836432932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0902web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567427594044" />
+              <option name="buildTimestamp" value="1534836432932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0902web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567427628625" />
+              <option name="buildTimestamp" value="1534836432932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0903web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567487281208" />
+              <option name="buildTimestamp" value="1534836455311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0903web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567522339862" />
+              <option name="buildTimestamp" value="1534836472762" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0903web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567525134968" />
+              <option name="buildTimestamp" value="1534836472762" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0904web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567566869721" />
+              <option name="buildTimestamp" value="1534836451821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0904web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567588167421" />
+              <option name="buildTimestamp" value="1534836434565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0904web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567604882081" />
+              <option name="buildTimestamp" value="1534836437786" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0904web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567605260555" />
+              <option name="buildTimestamp" value="1534836437786" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0905web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567650822389" />
+              <option name="buildTimestamp" value="1534836471747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0905web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567664582298" />
+              <option name="buildTimestamp" value="1534836471747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0905web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567668105934" />
+              <option name="buildTimestamp" value="1534836471747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0905web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567689368923" />
+              <option name="buildTimestamp" value="1534836471747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0906web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567771027788" />
+              <option name="buildTimestamp" value="1534836449792" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0906web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567762337066" />
+              <option name="buildTimestamp" value="1534836449792" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0906web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567770954666" />
+              <option name="buildTimestamp" value="1534836449792" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0906web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567779062650" />
+              <option name="buildTimestamp" value="1534836449792" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0907pre">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567824900518" />
+              <option name="buildTimestamp" value="1534836463796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0907web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567824932140" />
+              <option name="buildTimestamp" value="1534836463796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0907web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567844433423" />
+              <option name="buildTimestamp" value="1534836463796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0907web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567849539678" />
+              <option name="buildTimestamp" value="1534836437530" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0907web4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567870578095" />
+              <option name="buildTimestamp" value="1534836437530" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0908test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567958590786" />
+              <option name="buildTimestamp" value="1534836445823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0908web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567927358314" />
+              <option name="buildTimestamp" value="1534836445823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0908web2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567946635209" />
+              <option name="buildTimestamp" value="1534836445823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0909">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568026961234" />
+              <option name="buildTimestamp" value="1534836436959" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0910">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568087985818" />
+              <option name="buildTimestamp" value="1534836460149" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/0915test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568518551691" />
+              <option name="buildTimestamp" value="1534836463911" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/2019-08-28-2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566974289319" />
+              <option name="buildTimestamp" value="1534836443269" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/2019-08-31test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567254364665" />
+              <option name="buildTimestamp" value="1534836420770" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/2019-0828">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566962987893" />
+              <option name="buildTimestamp" value="1534836443269" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/20190826">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566795021072" />
+              <option name="buildTimestamp" value="1534836448992" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/20190827">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566897071122" />
+              <option name="buildTimestamp" value="1534836473187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/TXJavaTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1552309857727" />
+              <option name="buildTimestamp" value="1534836445584" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/_0916myweb1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568618393456" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/afstudy_08_16">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565968655964" />
+              <option name="buildTimestamp" value="1534836434719" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/boot_for_socket">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545557951553" />
+              <option name="buildTimestamp" value="1534836452550" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/com.qf.day5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563588603458" />
+              <option name="buildTimestamp" value="1534836433531" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555822136681" />
+              <option name="buildTimestamp" value="1534836463680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1559538427761" />
+              <option name="buildTimestamp" value="1534836477183" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/htmltest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566476153661" />
+              <option name="buildTimestamp" value="1534836459466" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/jediscluster">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558861151421" />
+              <option name="buildTimestamp" value="1534836453015" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/maven0917">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568686226334" />
+              <option name="buildTimestamp" value="1534836459318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/maven0918">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568778944129" />
+              <option name="buildTimestamp" value="1534836450630" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybaties091804">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568810164333" />
+              <option name="buildTimestamp" value="1534836436152" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatis0918">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568792679017" />
+              <option name="buildTimestamp" value="1534836450630" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatis091802">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568795654131" />
+              <option name="buildTimestamp" value="1534836450630" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatis091803">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568795650534" />
+              <option name="buildTimestamp" value="1534836450630" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatis091901">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568869334981" />
+              <option name="buildTimestamp" value="1534836477210" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatis091902">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568885361966" />
+              <option name="buildTimestamp" value="1534836468767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatis091903">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568900829354" />
+              <option name="buildTimestamp" value="1534836429610" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatis_04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569141368867" />
+              <option name="buildTimestamp" value="1534836442252" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/mybatisxiaomi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568951317779" />
+              <option name="buildTimestamp" value="1534836478037" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/myfirst">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568615128636" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/myjd">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547467900929" />
+              <option name="buildTimestamp" value="1534836429824" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/myxiaomi_maven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568622083025" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/myxiaomimybatistest2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569201606543" />
+              <option name="buildTimestamp" value="1534836440552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/myxiaomiparent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568695520907" />
+              <option name="buildTimestamp" value="1534836459318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/prestudy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567178559743" />
+              <option name="buildTimestamp" value="1534836463802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qdstudy_08_19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566228635458" />
+              <option name="buildTimestamp" value="1534836442400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563926205824" />
+              <option name="buildTimestamp" value="1534836436866" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_09">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565364613281" />
+              <option name="buildTimestamp" value="1534836438975" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_10">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565418311619" />
+              <option name="buildTimestamp" value="1534836450310" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_12">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565586386293" />
+              <option name="buildTimestamp" value="1534836443790" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_13">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565696442467" />
+              <option name="buildTimestamp" value="1534836423162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_14">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565752805026" />
+              <option name="buildTimestamp" value="1534836451420" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_15">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565857207455" />
+              <option name="buildTimestamp" value="1534836465322" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_17">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566042394543" />
+              <option name="buildTimestamp" value="1534836457573" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_08_18">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566052295854" />
+              <option name="buildTimestamp" value="1534836457573" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_second_week">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564397863927" />
+              <option name="buildTimestamp" value="1534836458044" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qfstudy_third_week">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564984342049" />
+              <option name="buildTimestamp" value="1534836459258" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/qiankuntest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566891110582" />
+              <option name="buildTimestamp" value="1534836473187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/rediscluster">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558857972930" />
+              <option name="buildTimestamp" value="1534836453015" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/shihaoxiaomi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568122431672" />
+              <option name="buildTimestamp" value="1534836460149" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/spring_092301">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569234979071" />
+              <option name="buildTimestamp" value="1534836462130" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/spring_092302">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569236585535" />
+              <option name="buildTimestamp" value="1534836427735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/tencent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554110984554" />
+              <option name="buildTimestamp" value="1534836441728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/test1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555815293888" />
+              <option name="buildTimestamp" value="1534836463680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/test111">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567210030376" />
+              <option name="buildTimestamp" value="1534836429887" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/test20190920">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568960792396" />
+              <option name="buildTimestamp" value="1534836478037" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567388673995" />
+              <option name="buildTimestamp" value="1534836432932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568621968922" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/xiaomimybatistest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569201607674" />
+              <option name="buildTimestamp" value="1534836440552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/xushihao">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568641645483" />
+              <option name="buildTimestamp" value="1534836470359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/xushihaoxiaomi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568124338114" />
+              <option name="buildTimestamp" value="1534836460149" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="d:/软件/IdeaProjects/徐诗豪">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4129.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566189815854" />
+              <option name="buildTimestamp" value="1534836433494" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/mycode/mycodestage2" />
+  </component>
+</application>

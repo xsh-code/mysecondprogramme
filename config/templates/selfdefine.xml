@@ -1,0 +1,36 @@
+<templateSet group="selfdefine">
+  <template name="ssns" value="Scanner scanner = new Scanner(System.in);&#10;System.out.println($VAR1$);&#10;$END$" shortcut="ENTER" description="Scanner scanner = new scanner(System.in);" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psv" value="public static void $VAR1$(){&#10;    $END$&#10;}" shortcut="ENTER" description="public static void **(){}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pvd" value="public void $VAR$(){&#10;$END$&#10;}" shortcut="ENTER" description="public void (){}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sna" value="private String name;&#10;" shortcut="ENTER" description="String name;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psxx" value="public String $VAR1$(){&#10;    $END$&#10;    return null;&#10;}" description="public String  xxx(){}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="n--" value="n-&gt;System.out.println(n)$END$" description="n-&gt;System.out.println(n)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

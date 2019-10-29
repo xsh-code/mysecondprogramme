@@ -1,0 +1,1 @@
+The <code>Element.shadowRoot</code> read-only property represents the shadow root hosted by the element.
