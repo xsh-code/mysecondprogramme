@@ -75,7 +75,7 @@
                                       style="font-size:20px;position:relative;top:2px;left:-3px;"></i> &nbsp; 首页
                 </li>
                 <!-- 显示正文标题！！ -->
-                    <li class="active">{{navTitle}}</li>
+                    <li id="navTitle" class="active">{{navTitle}}</li>
             </ol>
         </section>
 
@@ -83,7 +83,7 @@
         <section class="content" style="background:#fff;">
             <!-- 正文内容！！ -->
             <iframe scrolling="yes" frameborder="0"
-                    style="width:100%;min-height:200px;overflow:visible;background:#fff;" :src="main">
+                    style="width:100%;min-height:200px;overflow:visible;background:#fff;" id="main">
             </iframe>
         </section>
     </div>

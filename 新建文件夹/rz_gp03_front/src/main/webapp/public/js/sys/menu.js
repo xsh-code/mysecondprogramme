@@ -1,4 +1,4 @@
-var origin="http://localhost:8989/web03";//声明请求的域
+var origin="http://localhost:8080/xshrz01";//声明请求的域
 $(function(){
     var option = {
         url: origin+'/sys/menu/list',

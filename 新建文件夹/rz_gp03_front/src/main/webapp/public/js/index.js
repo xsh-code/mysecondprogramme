@@ -132,13 +132,14 @@ function routerList(router, menuList){
 				var url = window.location.hash;
 
 				//替换iframe的url
-			    vm.main = url.replace('#', '')+"?_"+$.now();
-
+			    // vm.main = url.replace('#', '')+"?_"+$.now();
+				document.getElementById("main").src=url.replace('#', '')+"?_"+$.now();
 			    //导航菜单展开
 			    $(".treeview-menu li").removeClass("active");
 			    $("a[href='"+url+"']").parents("li").addClass("active");
 
-			    vm.navTitle = $("a[href='"+url+"']").text();
+			    // vm.navTitle = $("a[href='"+url+"']").text();
+				$("#navTitle").text($("a[href='"+url+"']").text());
 			});
 		}
 	}

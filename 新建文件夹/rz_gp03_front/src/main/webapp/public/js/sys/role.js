@@ -1,4 +1,4 @@
-var origin="http://localhost:8989/web03";//声明请求的域
+var origin="http://localhost:8080/xshrz01";//声明请求的域
 //var origin="http://10.9.61.251:8989/web
 $(function(){
     var option = {
@@ -60,7 +60,7 @@ var vm = new Vue({
                         }
                     },
                     error : function() {
-                        layer.alert('服务器没有返回数据，可能服务器忙，请重试');
+                        layer.alert('，可能服务器忙，请重试');
                     }
                 });
             });
